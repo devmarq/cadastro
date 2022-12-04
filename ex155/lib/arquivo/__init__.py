@@ -1,5 +1,5 @@
 
-from ex115.lib.interface import *
+from ex155.lib.interface import *
 
 
 def arquivoExiste(nome):
