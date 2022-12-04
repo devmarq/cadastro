@@ -1,3 +1,1 @@
-Marcos Vinicius R.M.L.;11
-Miguel Lins Cordeiro;6
-MIGUEL LINS CORDEIRO;2
+nome,0
