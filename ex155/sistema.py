@@ -1,8 +1,5 @@
-from ex115.lib.interface import *
-from tudo import cores
-from time import sleep
-from tudo import matematica
-from ex115.lib.arquivo import *
+from ex155.lib.interface import *
+from ex155.lib.arquivo import *
 
 arq= 'cursoemvideo.txt'
 #str(input('Qual o nome do arquivo? '))+'.txt'
