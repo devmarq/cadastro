@@ -1,7 +1,7 @@
 from ex155.lib.interface import *
 from ex155.lib.arquivo import *
 
-arq= 'cursoemvideo.txt'
+arq= 'arquivo-c.txt'
 #str(input('Qual o nome do arquivo? '))+'.txt'
 
 if not arquivoExiste(arq):
