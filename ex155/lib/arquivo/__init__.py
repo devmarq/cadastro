@@ -1,4 +1,4 @@
-from tudo import cores
+
 from ex115.lib.interface import *
 
 
@@ -17,7 +17,7 @@ def criarArquivo(nome):
         a = open(nome, 'wt+')
         a.close()
     except:
-        print(cores.vermelho('Houve um ERRO na criação do arquivo!'))
+        print('Houve um ERRO na criação do arquivo!')
     else:
         print(f'Arquivo "{nome}" criado com sucesso!')
 
