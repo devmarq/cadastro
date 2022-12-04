@@ -25,5 +25,5 @@ while True:
         break
     else:
         # D.o.e.m.
-        print(cores.vermelho('ERRO! Digite uma opção válida!'))
-    sleep(2)
+        print('ERRO! Digite uma opção válida!')
+    
